@@ -1,0 +1,9 @@
+numpy
+Pillow
+satpy
+pyresample
+pyproj
+dask[array]
+xarray
+netCDF4
+tqdm
